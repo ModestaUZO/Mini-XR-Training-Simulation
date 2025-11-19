@@ -77,7 +77,7 @@ MiniXRDemo/
 
 **Option 2: Recorded Demo**
 
-For users who cannot run locally, a screen recording demonstrates the VR environment. Find the Google Drive Demo Link [Here](https://drive.google.com/file/d/1fVHZPOE2k9uqpNSBqPuEv4kpBZ_XFyEl/view?usp=sharing)
+For users who cannot run locally, a screen recording demonstrates the VR environment. Find the Google Drive Demo Link [Here](https://drive.google.com/file/d/1BNu9QZnDo2ZxmK8MYaGt51zZHLB8C37x/view?usp=sharing)
 
 
 ### Key Insights
